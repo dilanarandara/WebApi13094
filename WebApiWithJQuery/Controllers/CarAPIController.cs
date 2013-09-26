@@ -17,24 +17,25 @@ namespace WebApiWithJQuery.Controllers
     private VehicleContext db = new VehicleContext();
 
     // GET api/Car/5
-    public IQueryable<Car> GetCar(Guid modelId)
+    [HttpGet("api/CarApi/{modelId}/Model")]
+    public IQueryable<Car> GetCars(Guid modelId)
     {
       var models = db.Cars.Where(c => c.ModelId == modelId).AsQueryable();
 
       return models;
     }
 
-    //// GET api/Car/5
-    //public Car GetCar(Guid id)
-    //{
-    //  Car car = db.Cars.Find(id);
-    //  if (car == null)
-    //  {
-    //    throw new HttpResponseException(Request.CreateResponse(HttpStatusCode.NotFound));
-    //  }
+    // GET api/Car/5
+    public Car GetCar(Guid id)
+    {
+      Car car = db.Cars.Find(id);
+      if (car == null)
+      {
+        throw new HttpResponseException(Request.CreateResponse(HttpStatusCode.NotFound));
+      }
 
-    //  return car;
-    //}
+      return car;
+    }
 
     protected override void Dispose(bool disposing)
     {

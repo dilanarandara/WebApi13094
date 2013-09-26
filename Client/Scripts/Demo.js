@@ -51,7 +51,7 @@ function SetMake(makes) {
 
 function GetModelByMakeId(makeId) {
     $.ajax({
-        url: "http://localhost:86/api/ModelAPI/" + makeId,
+        url: "http://localhost:86/api/ModelApi/" + makeId + "/Make",
         type: "GET",
         dataType: 'json',
         success: function (data) {
@@ -81,7 +81,7 @@ function SetModel(models) {
 
 function GetCarByModelId(modelId) {
     $.ajax({
-        url: "http://localhost:86/api/CarAPI/" + modelId,
+        url: "http://localhost:86/api/CarApi/" + modelId + "/Model",
         type: "GET",
         dataType: 'json',
         success: function (data) {

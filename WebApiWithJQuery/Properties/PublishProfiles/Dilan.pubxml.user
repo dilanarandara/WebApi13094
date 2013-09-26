@@ -60,13 +60,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:54:08</publishTime>
     </File>
     <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/de/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/de/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/DotNetOpenAuth.AspNet.dll">
       <publishTime>09/24/2013 23:54:05</publishTime>
@@ -90,55 +90,55 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/25/2013 16:40:16</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/es/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/fr/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/it/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/it/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ja/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ko/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/Microsoft.Data.Edm.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/Microsoft.Data.OData.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>09/24/2013 23:54:02</publishTime>
@@ -153,31 +153,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:54:02</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/ru/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
-      <publishTime>09/24/2013 23:54:03</publishTime>
+      <publishTime>09/26/2013 18:19:05</publishTime>
     </File>
     <File Include="bin/System.Spatial.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>09/24/2013 23:54:03</publishTime>
     </File>
     <File Include="bin/System.Web.Http.dll">
-      <publishTime>09/24/2013 23:54:04</publishTime>
+      <publishTime>09/26/2013 18:19:06</publishTime>
     </File>
     <File Include="bin/System.Web.Http.OData.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Tracing.dll">
+      <publishTime>09/26/2013 18:20:02</publishTime>
     </File>
     <File Include="bin/System.Web.Http.WebHost.dll">
-      <publishTime>09/24/2013 23:54:04</publishTime>
+      <publishTime>09/26/2013 18:19:06</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
       <publishTime>09/24/2013 23:54:03</publishTime>
@@ -198,7 +201,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:54:03</publishTime>
     </File>
     <File Include="bin/WebApiWithJQuery.dll">
-      <publishTime>09/26/2013 10:41:28</publishTime>
+      <publishTime>09/26/2013 22:51:14</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>09/24/2013 23:54:08</publishTime>
@@ -210,22 +213,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:54:05</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/zh-Hans/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
-      <publishTime>09/24/2013 23:54:07</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="bin/zh-Hant/System.Spatial.resources.dll">
-      <publishTime>09/24/2013 23:54:06</publishTime>
+      <publishTime>09/26/2013 18:19:25</publishTime>
     </File>
     <File Include="Content/Site.css">
       <publishTime>09/24/2013 23:53:44</publishTime>
@@ -456,7 +459,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:53:44</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>09/25/2013 17:19:10</publishTime>
+      <publishTime>09/26/2013 18:20:02</publishTime>
     </File>
     <File Include="Scripts/jquery-1.8.2.js">
       <publishTime>09/24/2013 23:53:58</publishTime>
@@ -555,7 +558,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/24/2013 23:53:44</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>09/26/2013 10:41:29</publishTime>
+      <publishTime>09/26/2013 22:51:14</publishTime>
     </File>
   </ItemGroup>
 </Project>

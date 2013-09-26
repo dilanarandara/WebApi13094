@@ -24,7 +24,7 @@ namespace WebApiWithJQuery.Controllers
     }
 
     // GET api/Model/id
-    [HttpGet("api/Model/{makeId}/Make")]
+    [HttpGet("api/ModelApi/{makeId}/Make")]
     public IQueryable<Model> GetModels(Guid makeId)
     {
       var models = db.Models.Where(c => c.MakeId == makeId).AsQueryable();
