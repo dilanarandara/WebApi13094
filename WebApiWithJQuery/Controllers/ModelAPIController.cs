@@ -24,6 +24,7 @@ namespace WebApiWithJQuery.Controllers
     }
 
     // GET api/Model/id
+    [HttpGet("api/Model/{makeId}/Make")]
     public IQueryable<Model> GetModels(Guid makeId)
     {
       var models = db.Models.Where(c => c.MakeId == makeId).AsQueryable();
@@ -31,17 +32,17 @@ namespace WebApiWithJQuery.Controllers
       return models;
     }
 
-    //// GET api/Model/5
-    //public Model GetModel(Guid id)
-    //{
-    //  Model model = db.Models.Find(id);
-    //  if (model == null)
-    //  {
-    //    throw new HttpResponseException(Request.CreateResponse(HttpStatusCode.NotFound));
-    //  }
+    // GET api/Model/5
+    public Model GetModel(Guid id)
+    {
+      Model model = db.Models.Find(id);
+      if (model == null)
+      {
+        throw new HttpResponseException(Request.CreateResponse(HttpStatusCode.NotFound));
+      }
 
-    //  return model;
-    //}
+      return model;
+    }
 
     protected override void Dispose(bool disposing)
     {
